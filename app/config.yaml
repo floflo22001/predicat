@@ -3,9 +3,7 @@ project:
 
 models:
   - na2008_old
-  - na2008
-  - coicop
-  
+
 model_conf:
   na2008_old:
     file: model_na2008.bin
